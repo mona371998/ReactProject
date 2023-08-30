@@ -7,7 +7,8 @@ In this project, there is a button and a paragraph present. Whenever we click th
 3. Open the file in visual studio code (any Developer tool).
 4. Open termial and go to the project file path.
 5. Run **npm install**.(to insall the node_modules folder)
-6. run **npm start**. (Runs the app in the development mode)
+6. run **npm install react-icons react-modal**
+7. run **npm start**. (Runs the app in the development mode)
 
 **Code Explanation**
 In this Project we have create 3 Folder.
